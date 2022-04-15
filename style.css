@@ -1,0 +1,62 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+#abc img{
+    border-radius: 50px;
+    display: inline-block;
+    margin: 5px;
+
+}
+nav{
+text-align: center;
+}
+#abc{
+    margin-top: -12px;
+}
+
+.my_nav{
+    position:sticky;
+    z-index: 9999;
+    top: 0; 
+}
+#first{
+    background-color: black;
+}
+a{
+    text-align: center;
+}
+#home img {
+ width: 95%;
+padding: 10px;
+border: 2px solid rgb(36, 21, 21);
+background-color: bisque;
+
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+
+span{
+    font-size: 30px;
+}
+
+.image_admin{
+    width: 350px;
+    height: 250px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin: 5px;
+    
+}
+#founder{
+  
+    text-align: center;
+position: relative;
+}
+.text-capitalize{
+    margin: 50px;
+}
